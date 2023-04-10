@@ -8,6 +8,25 @@
     "@value" : "Mapa de Piracicaba pelo IHGP",
     "@language" : "Português - Brasil"
   } ],
+   {
+      "@context": "http://iiif.io/api/search/0/context.json",
+      "@id": "https://iiif.wellcomecollection.org/search/v0/b18035723",
+      "profile": "http://iiif.io/api/search/0/search",
+      "label": "Search within this manifest",
+      "service": {
+        "@id": "https://iiif.wellcomecollection.org/search/autocomplete/v1/b18035723",
+        "profile": "http://iiif.io/api/search/0/autocomplete",
+        "label": "Autocomplete words in this manifest"
+      } {
+      "@context": "http://iiif.io/api/search/0/context.json",
+      "@id": "https://iiif.wellcomecollection.org/search/v0/b18035723",
+      "profile": "http://iiif.io/api/search/0/search",
+      "label": "Search within this manifest",
+      "service": {
+        "@id": "https://iiif.wellcomecollection.org/search/autocomplete/v1/b18035723",
+        "profile": "http://iiif.io/api/search/0/autocomplete",
+        "label": "Autocomplete words in this manifest"
+      }
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Mapa",
   "sequences" : [ {

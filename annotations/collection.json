@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Megalunar.github.io/Teste-IIIF/annotations/03c7343587d46f5a1003aa9b47b7c8f1.json" ],
+  "@id" : "https://Megalunar.github.io/Teste-IIIF/annotations/collection.json",
+  "label" : "All annotations loaded in Megalunar/Teste-IIIF project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

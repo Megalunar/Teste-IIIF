@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/C05BAT01Z.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "C05BAT01Z",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Teste",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Teste",
   "sequences" : [ {
     "@id" : "http://f995ec91-2cb5-4f8e-9a84-8f4ca7be7541",
     "@type" : "sc:Sequence",

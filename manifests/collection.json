@@ -13,9 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/Em_foco",
     "label" : "Em foco n 47 - Fevereiro  - 2011"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/C05BAT01Z.json",
-    "label" : "C05BAT01Z -Livro de Batizados da Paróquia Santo Antônio - Catedral - Piracicaba - 1774 - 1817"
   } ]
 }

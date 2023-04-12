@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/C05BAT01Z.json",
     "label" : "C05BAT01Z"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/EM.json",
+    "label" : "Em foco n 47 - Fevereiro  - 2011"
   } ]
 }

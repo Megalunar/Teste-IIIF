@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/EM.json",
     "label" : "Em foco n 47 - Fevereiro  - 2011"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/testando.json",
+    "label" : "[Click to edit label]"
   } ]
 }

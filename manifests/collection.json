@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/mapa.json",
-    "label" : "Mapa de Piracicaba"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://Megalunar.github.io/Teste-IIIF/manifests/Em_foco",
     "label" : "Em foco n 47 - Fevereiro  - 2011"
   }, {
